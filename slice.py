@@ -10,3 +10,5 @@ if __name__ == '__main__':
     slice.description = "%s bases starting at position %s" % (size, start)
 
     SeqIO.write(slice, "slice.fasta", "fasta")
+
+    asdfasdfasdsfasdf
